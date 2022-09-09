@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nobodysleezy
-- 👀 I’m interested in Crypto 
+- 👋 Hi, I’m @nobodysleezy and this is some points about me
+- 👀 I’m interested about Crypto and AI
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me Send me message on ig
+- 💞️ I’m looking into the future where I'm a successsful
+- 📫 If you want to contact me Send me message on ig
 
 <!---
 nobodysleezy/nobodysleezy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
