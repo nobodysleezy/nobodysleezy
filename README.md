@@ -2,7 +2,9 @@
 - 👀 I’m interested about Crypto and AI
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking into the future where I'm a successsful
-- 📫 If you want to contact me Send me message on ig
+- 📫 If you want to contact me Send me message on ig marek_dlabaja
+
+
 
 <!---
 nobodysleezy/nobodysleezy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
